@@ -41,7 +41,6 @@ Once an instance of SafeScheduler is created, its internal logger can be passed 
 
 ### Structure
 * ***scheduler***: The package containing the SafeSchedule implementation.
-* ***job***: An example package containing a simple function (send_data_to_melingo) which exports a JSON object containing a Watson
-Assistant workspace and forwards via POST the JSON to melingo api.
+* ***job***: An example package containing a simple function .
 * ***tests***: Some test cases.
 * ***main.py***: The execution file.
